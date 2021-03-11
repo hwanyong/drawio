@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T00:25:13.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="3OnzbshEHhMO3Jbbxk9J" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T00:28:58.650Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="DuWSHRIcUY0efpal8iwt" version="14.4.7" type="github">
   <diagram id="JPXVXQhIoLzRGJiNxMO3" name="Page-1">
-    <mxGraphModel dx="1740" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Base" style="locked=1;" parent="0" />
@@ -645,9 +645,9 @@
         <mxCell id="NRUyum9-wbXjrjiuYs28-197" value="Play Logic" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;glass=0;labelBackgroundColor=none;sketch=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NRUyum9-wbXjrjiuYs28-57" vertex="1">
           <mxGeometry x="270" y="1030" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NRUyum9-wbXjrjiuYs28-207" value="Note" style="locked=1;" parent="0" />
+        <mxCell id="NRUyum9-wbXjrjiuYs28-207" value="Note" style="" parent="0" />
         <mxCell id="NRUyum9-wbXjrjiuYs28-208" value="랜덤반복&lt;br&gt;한곡반복" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;glass=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;size=16;labelBorderColor=none;labelBackgroundColor=none;spacingTop=0;spacing=10;" parent="NRUyum9-wbXjrjiuYs28-207" vertex="1">
-          <mxGeometry x="470" y="20" width="80" height="60" as="geometry" />
+          <mxGeometry x="430" y="20" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
